@@ -10,4 +10,4 @@
   - Make python discord bot base
 
 ### 📊  My stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yer7700)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yer7700&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
