@@ -1,24 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+### 💡 About me
+  - 👤 I'm yer7700.
+  - 🌐 I live in Russia, Moscow. I speak: Russian, English.
+  - 📘 I'm currently learning:   C# (65%), C++ (30%)
+  - 💻️ I know:   Python (95%), JS (50%), Web (HTML, CSS) (75%)
 
-  **-** 👤 I'm yer7700.
- 
-  **-** 🌐 I live in Russia, Moscow. I speak: Russian, English.
- 
-  **-** 📘 I'm currently learning:   C# (65%), C++ (30%)
- 
-  **-** 💻️ I know:   Python (95%), JS (50%), Web (HTML, CSS) (75%)
-
-<!--
-**yer7700/yer7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭  My plans
+  - Make python discord lib
+  - Make python discord bot base
