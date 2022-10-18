@@ -6,8 +6,7 @@
   - 💻️ I know:   Python (95%), JS (50%), Web (HTML, CSS) (75%)
 
 ### 🧭  My plans
-  - Make python discord lib
-  - Make python discord bot base
+  - Funny Evolution Simulator
 
 ### 📊  My stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yer7700&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
