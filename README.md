@@ -9,7 +9,7 @@
 You can learn more about my projects and plans on my Discord server.
 
 ### 🤔  My interests
-  - Learning languages (natural, not programming)
+  - Learning languages (programming and natural both)
   - AI, algorithms that can replace AI (Golen4CSD for example)
   - Making some generators, utilities and etc.
 
