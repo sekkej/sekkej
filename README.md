@@ -1,6 +1,6 @@
 # Hi there 👋
 ### 💡 About me
-  - 👤 I'm yer7700.
+  - 👤 I'm sekkej.
   - 🌐 I live in Russia, Moscow. I speak: Russian, English.
   - 📘 I'm currently learning:   C# (75%), C++ (25%), Java (55%)
   - 💻️ I know:   Python (100%), JS (50%), Web (HTML, CSS) (85%)
